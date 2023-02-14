@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.contai {
+    width: 460px;
+    background-image: linear-gradient(145deg, rgb(6, 173, 185),  rgb(49, 49, 49));
+}
+#option_answer button.active {
+    background-color: aliceblue;
+}
+#option_answer button.error {
+    background-color: rgb(213, 105, 93);
+    color: white;
+}
+#option_answer button.answer_true {
+    background-color: rgb(2, 81, 11);
+    color: white;
+}
+
+@media only screen and (max-width: 460px) {
+    body {
+      width: 100%;
+    }
+}

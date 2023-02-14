@@ -1,0 +1,33 @@
+{
+    "data": [{
+        "id": 1,
+        "question": "Ai được xem là vị vua đầu tiên của nước ta?",
+        "option": [
+            {"id": 1, "name": "Lý Thái Tổ", "value": false},
+            {"id": 2, "name": "Lý Nam Đế", "value": true},
+            {"id": 3, "name": "Đinh Tiên Hoàng", "value": false},
+            {"id": 4, "name": "Ngô Quyền", "value": false}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Trạng nguyên đầu tiên của nước ta?",
+        "option": [
+            {"id": 1, "name": "Lê Văn Thịnh", "value": false},
+            {"id": 2, "name": "Nguyễn Hiền", "value": false},
+            {"id": 3, "name": "Lê Văn Hưu", "value": false},
+            {"id": 4, "name": "Nguyễn quán Quang", "value": true}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Vị vua cho dời đô từ Hoa Lư về Thăng Long?",
+        "option": [
+            {"id": 1, "name": "Lê Lợi", "value": false},
+            {"id": 2, "name": "Ngô Quyền", "value": false},
+            {"id": 3, "name": "Lý thái Tổ", "value": false},
+            {"id": 4, "name": "Lý Thánh Tông", "value": true}
+        ]
+    }
+]
+}
